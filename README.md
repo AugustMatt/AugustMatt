@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/AugustMatt/AugustMatt/blob/main/Subarashi.gif)
+![Alt Text](https://github.com/AugustMatt/AugustMatt/blob/main/Subarashi-low.gif)
 
 <!--
 **AugustMatt/AugustMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
