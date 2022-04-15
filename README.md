@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 🤔 Preciso de ajuda para descobrir motivos para viver 🐔
 - 💬 O assunto é 🐔 de 🩳 ? Dxa comigo 😃
 - 📫 Não venha até mim, eu vou até vc....ou não
+- ⚡ Homem de cultura ( ͡° ͜ʖ ͡°)
