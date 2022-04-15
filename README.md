@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 - 💬 O assunto é 🐔 de 🩳 ? Dxa comigo 😃
 - 📫 Não venha até mim, eu vou até vc....ou não
 - ⚡ Homem de cultura ( ͡° ͜ʖ ͡°)
-
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/AugustMatt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustMatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMatt&layout=compact&langs_count=7&theme=tokyonight"/>
-  </>
-</div>
+  
+| <a href="https://github.com/AugustMatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustMatt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Matuzo's github stats" /></a> | <a href="https://github.com/AugustMatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMatt&langs_count=10&theme=tokyonight&layout=compact" /></a> |
+| ------------- | ------------- |
  
