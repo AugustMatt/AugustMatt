@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 Não venha até mim, eu vou até vc....ou não
 - ⚡ Homem de cultura ( ͡° ͜ʖ ͡°)
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/AugustMatt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustMatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMatt&layout=compact&langs_count=7&theme=tokyonight"/>
