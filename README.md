@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 - 📫 Não venha até mim, eu vou até vc....ou não
 - ⚡ Homem de cultura ( ͡° ͜ʖ ͡°)
   
-| <a href="https://github.com/AugustMatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustMatt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Matuzo's github stats" /></a> | <a href="https://github.com/AugustMatt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMatt&langs_count=10&theme=tokyonight&layout=compact" /></a> |
-| ------------- | ------------- |
+
  
