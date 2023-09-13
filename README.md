@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 
 ![Alt Text](https://github.com/AugustMatt/AugustMatt/blob/main/Subarashi-low.gif)
 
-- 🔭 Trabalhando com Desenvolvimento Web utilizando HTML5, CSS, Javascript, PHP e SQL/MySQL
-- 🌱 Aprendendo sobre o aprendizado de maquina com Python
-- 👯 Quero colaborar com os coringas 🤡
-- 🤔 Preciso de ajuda para descobrir motivos para viver 🐔
-- 💬 O assunto é 🐔 de 🩳 ? Dxa comigo 😃
-- 💬 O assunto é automação com selenium e python? Chega + 😄
-- 📫 Não venha até mim, eu vou até vc....ou não
+- 🌱 Aprendendo sobre Docker, Kafka e coisas de engenharia de dados
 - ⚡ Homem de cultura ( ͡° ͜ʖ ͡°)
   
 
