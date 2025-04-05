@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <!-- ![Alt Text](https://github.com/AugustMatt/AugustMatt/blob/main/Subarashi-low.gif) -->
 
 - 🔭 Engenheiro de Computação
-- 🌱 Estudando CSS e RPA
-- 👯 Buscando Oportunidades Profissionais em Desenvolvimento de Sistemas Web, RPA ou Ciencia de Dados
+- 🌱 Estudando Blusprism e RPA no geral
+- 👯 Buscando Oportunidades Profissionais em Desenvolvimento RPA
 - 🤔 Procuro ajuda para aprender IA
 
  | <a href="https://github.com/AugustMatt/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AugustMatt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Matuzo's github stats" /></a> | <a href="https://github.com/AugustMatt/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustMatt&langs_count=10&theme=tokyonight&layout=compact" /></a> |
